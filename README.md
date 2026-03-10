@@ -41,7 +41,8 @@ O dataset contém dados simulados de vendas com as seguintes informações:
 
 ## Visualização do Dashboard
 
-![dashbeard_vendas](./imagens/dashboard.png)
+<img width="1166" height="655" alt="dashboard" src="https://github.com/user-attachments/assets/a1d3d4c3-3bfb-443f-8887-509ddfad3ba6" />
+
 
 ---
 
